@@ -1,6 +1,6 @@
 #Hunt all the ogres
 #Collect all the coins
-@Combine everything you know to venture thorugh the groves!
+#Combine everything you know to venture thorugh the groves!
 #Remember while-true loops, if/else, flags, cleave(), attack(), pos, and moveXY()
 #Keep in mind this is an interative level 
 # Use "if" and "else if" to handle any situation.
